@@ -42,6 +42,6 @@ Software developer focused on building **robust**, **maintainable**, and **elega
 
 ## Connect
 
-- [fscotto.co](https://fscotto.co)
+- [Blog Personale](https://blog.fscotto.co)
 - [GitHub](https://github.com/fscotto)
 - [LinkedIn](https://www.linkedin.com/in/fabio-scotto-di-santolo)
